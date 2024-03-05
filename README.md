@@ -144,7 +144,7 @@ Yes! Completely free with no backend server what-so-ever.
 
 <div align="center">
   <img src="./public/footer.png" />
-  <em>made with ❤️ by <a href="https://www.lyc8503.site">lyc8503</a> & <a href="https://spencerwoo.com">spencer woo</a></em>
+  <em>made with ❤️ by <a href="https://www.cybrous.eu.org">lyc8503</a> & <a href="https://cybrous.eu.org">YUSUF</a></em>
 </div>
 
 
