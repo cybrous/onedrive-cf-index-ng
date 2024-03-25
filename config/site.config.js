@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "Cybrous OneDrive",
+  title: "Cybrous Book",
 
   // The folder that you are to share publicly with onedrive-cf-index-ng. Use '/' if you want to share your root folder.
   baseDirectory: '/GNDU CSE BOOKS & NOTES',
